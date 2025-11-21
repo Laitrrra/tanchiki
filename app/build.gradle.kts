@@ -6,7 +6,7 @@ plugins {
 android {
     namespace = "com.example.tankionline"
     compileSdk = 35
-
+рмрмполрмлбр
     defaultConfig {
         applicationId = "com.example.tankionline"
         minSdk = 24
